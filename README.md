@@ -1,6 +1,8 @@
 ## Comprehensive-Analysis-of-Music-Industry-Trends-using-Power-BI
 
-<img src = "Screenshot 2025-02-05 134929.png">
+<img src = "Screenshot 2025-04-03 013315.png">
+<img src = "Screenshot 2025-04-03 013328.png">
+<img src = "Screenshot 2025-04-03 013340.png">
 
 ## 📌 Problem Definition
 This project intends to conduct a comprehensive analysis of YouTube songs data using Power BI. The analysis aims to uncover trends, preferences, and patterns in the data to aid content creators and stakeholders in optimizing their YouTube song content.<br>
